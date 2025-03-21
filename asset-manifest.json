@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NeaveTV/static/css/main.a9518f66.css",
+    "main.js": "/NeaveTV/static/js/main.d8877e77.js",
+    "static/js/453.ed3810f9.chunk.js": "/NeaveTV/static/js/453.ed3810f9.chunk.js",
+    "static/media/Segment7Standard.otf": "/NeaveTV/static/media/Segment7Standard.fd88e4c6bbf8c3867000.otf",
+    "index.html": "/NeaveTV/index.html",
+    "main.a9518f66.css.map": "/NeaveTV/static/css/main.a9518f66.css.map",
+    "main.d8877e77.js.map": "/NeaveTV/static/js/main.d8877e77.js.map",
+    "453.ed3810f9.chunk.js.map": "/NeaveTV/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9518f66.css",
+    "static/js/main.d8877e77.js"
+  ]
+}
